@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e5ba5ddaa49db882",
+    "type": "split",
+    "children": [
+      {
+        "id": "23883d0e588b9eed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76160b3e1fe8413b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications of Ai in Infosec/Spam Dataset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spam Dataset"
+            }
+          },
+          {
+            "id": "29263144855a29bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications of Ai in Infosec/Preprocessing the Spam Dataset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preprocessing the Spam Dataset"
+            }
+          },
+          {
+            "id": "6a14cc7a672c63a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications of Ai in Infosec/Feature Extraction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feature Extraction"
+            }
+          },
+          {
+            "id": "66853647b480c0ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Applications of Ai in Infosec/Training and Evaluation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Training and Evaluation"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dfe29af581e6dde",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c14293b04c11bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7daa9c3d11ea41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a9770617039ffff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "445f8efcdf8773fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eff5b1abf83980b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2adc12376e78946a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8271fb2b82d8a067",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Applications of Ai in Infosec/Training and Evaluation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Training and Evaluation"
+            }
+          },
+          {
+            "id": "1f2db6c65fc8abb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Applications of Ai in Infosec/Training and Evaluation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Training and Evaluation"
+            }
+          },
+          {
+            "id": "24b3367578236c5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23d2b40f28770b31",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e94e3a7a2186bd9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Applications of Ai in Infosec/Training and Evaluation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Training and Evaluation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9b7daa9c3d11ea41",
+  "lastOpenFiles": [
+    "Applications of Ai in Infosec/Feature Extraction.md",
+    "Applications of Ai in Infosec/Training and Evaluation.md",
+    "Applications of Ai in Infosec/Spam Dataset.md",
+    "Applications of Ai in Infosec/Preprocessing the Spam Dataset.md",
+    "Applications of Ai in Infosec/Spam Classification.md",
+    "Welcome.md",
+    "Applications of Ai in Infosec",
+    "create a link.md"
+  ]
+}
