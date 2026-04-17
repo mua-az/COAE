@@ -1,1 +1,6 @@
 malware_classifier.pth
+*.joblib
+*.png
+**/.ipynb_checkpoints/
+*.zip
+*.joblib
