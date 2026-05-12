@@ -6,3 +6,5 @@ malware_classifier.pth
 *.joblib
 *.pth
 *.ppm
+*.gz
+*ubyte
