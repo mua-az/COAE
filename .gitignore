@@ -1,10 +1,54 @@
-malware_classifier.pth
-*.joblib
-*.png
-**/.ipynb_checkpoints/
-*.zip
-*.joblib
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/*
+
+# --- ML Models / Weights ---
 *.pth
-*.ppm
+*.pt
+*.joblib
+*.pickle
+*.pkl
+*.npz
+*.ckpt
+
+# --- ML Datasets ---
+*.csv
 *.gz
+*.zip
+*.bz2
+*.tar
+*.tgz
+*.7z
+*.npz
 *ubyte
+*.idx
+
+# MNIST raw files
+**/MNIST/raw/*
+!**/MNIST/raw/readme
+
+# Spam dataset
+SMSSpamCollection
+readme
+
+# --- Image & media dumps ---
+*.png
+*.jpg
+*.jpeg
+*.ppm
+
+# --- Logs ---
+*.log
+*.out
+
+# --- Trash / OS files ---
+.DS_Store
+
+# --- Git internal accidental ---
+git/
