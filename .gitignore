@@ -1,54 +1,15 @@
-# --- Python ---
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# --- Jupyter ---
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/*
-
-# --- ML Models / Weights ---
 *.pth
-*.pt
 *.joblib
-*.pickle
-*.pkl
-*.npz
-*.ckpt
-
-# --- ML Datasets ---
+*.json
+*.txt
 *.csv
 *.gz
 *.zip
-*.bz2
-*.tar
-*.tgz
-*.7z
 *.npz
-*ubyte
+*.npy
+*.ubyte
 *.idx
-
-# MNIST raw files
-**/MNIST/raw/*
-!**/MNIST/raw/readme
-
-# Spam dataset
-SMSSpamCollection
-readme
-
-# --- Image & media dumps ---
-*.png
-*.jpg
-*.jpeg
 *.ppm
-
-# --- Logs ---
-*.log
-*.out
-
-# --- Trash / OS files ---
-.DS_Store
-
-# --- Git internal accidental ---
-git/
+*.png
+**/MNIST/raw/
+**/__MACOSX/
